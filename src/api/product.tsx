@@ -1,5 +1,4 @@
-import { IProduct } from './../interfaces/IProduct';
-import { AxiosPromise } from 'axios';
+import { IProduct } from '../interfaces/IProduct';
 import instance from './instance';
 
 export const getProducts = async (): Promise<IProduct[]> => {

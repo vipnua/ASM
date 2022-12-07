@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 
 type Props = {}
 
@@ -32,6 +33,7 @@ const webHeader = (props: Props) => {
               </div>
               <div className="basis-2/12 flex">
                 <div id="auth" className="px-2 w-1/4 flex pl-10 mt-2" />
+                <Link to="/admin" id="signout" className="px-2 w-1/4 pl-10 mt-2 ">Đăng nhập</Link>
                 <button id="signout" className="px-2 w-1/4 pl-10 mt-2 hidden">Đăng xuất</button>
               </div>
             </div>

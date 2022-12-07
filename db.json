@@ -1,33 +1,31 @@
 {
-    "products": [
-        {
-            
-            "name": "Samsung Galaxy S22 Ultra 5G",
-            "originalPrice": "30990000",
-            "sellerPrice": "27990000",
-            "description": "Galaxy S22 Ultra 5G chiếc smartphone cao cấp nhất trong bộ 3 Galaxy S22 series mà Samsung đã cho ra mắt. Tích hợp bút S Pen hoàn hảo trong thân máy, trang bị vi xử lý mạnh mẽ cho các tác vụ sử dụng vô cùng mượt mà và nổi bật hơn với cụm camera không viền độc đáo mang đậm dấu ấn riêng.",
-            "longDescription": "Sở hữu một diện mạo đầy nổi bật Galaxy S22 Ultra 5G được kế thừa form thiết kế từ những dòng Note trước đây của hãng đem đến cho bạn có cảm giác vừa mới lạ vừa hoài niệm. Trọng lượng của máy 228 g cho cảm giác cầm nắm đầm tay, khi cầm máy trần thì hơi có cảm giác dễ trượt <img src='https://cdn.tgdd.vn/Products/Images/42/235838/samsung-galaxy-s22-ultra-10-2.jpg' max-width='100%' style='margin: 0 auto;' > Phần mặt lưng điện thoại được làm nhám nên hạn chế tốt việc bám dấu vân tay, có thiết kế cũng khá đơn giản nhưng vẫn toát lên vẻ sang trọng và cao cấp của chiếc máy. Cụm camera sau trên Galaxy S22 Ultra 5G được thiết kế trần tạo cảm giác gọn gàng và cũng tạo nên một điểm nhấn độc đáo cho chiếc máy. <img src='https://cdn.tgdd.vn/Products/Images/42/235838/samsung-galaxy-s22-ultra-11-2.jpg' max-width='100%' style='margin: 0 auto;' >' ",
-            "category": "Phone",
-            "images": {
-                "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/235838/TimerThumb/samsung-galaxy-s22-ultra.jpeg",
-                "image": "https://cdn.tgdd.vn/Products/Images/42/235838/samsung-galaxy-s22-ultra-1-1.jpg"
-            },
-            "id": 1,
-            "rate": "4"
-        },
-        {
-            "name": "Samsung Galaxy A23 4GB",
-            "originalPrice": "5690000",
-            "sellerPrice": "",
-            "description": "Samsung Galaxy A23 4GB sở hữu bộ thông số kỹ thuật khá ấn tượng trong phân khúc, máy có một hiệu năng ổn định, cụm 4 camera thông minh cùng một diện mạo trẻ trung phù hợp cho mọi đối tượng người dùng.",
-            "longDescription": "",
-            "category": "Phone",
-            "images": {
-                "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/262650/TimerThumb/samsung-galaxy-a23-(2).jpg",
-                "image": "https://cdn.tgdd.vn/Products/Images/42/262650/samsung-galaxy-a23-1-1.jpg"
-            },
-            "id": 2,
-            "rate": "4"
-        }
-    ]
+  
+  "users": [
+    {
+      
+    }
+  ],
+  "products": [
+    {
+      "name": "123123",
+      "description": "Sở hữu một diện mạo đầy nổi bật Galaxy S22 Ultra 5G được kế thừa form thiết kế từ những dòng Note trước đây của hãng đem đến cho bạn có cảm giác vừa mới lạ vừa hoài niệm. Trọng lượng của máy 228 g cho cảm giác cầm nắm đầm tay, khi cầm máy trần thì hơi có cảm giác dễ trượt <img src='https://cdn.tgdd.vn/Products/Images/42/235838/samsung-galaxy-s22-ultra-10-2.jpg' max-width='100%' style='margin: 0 auto;' > Phần mặt lưng điện thoại được làm nhám nên hạn chế tốt việc bám dấu vân tay, có thiết kế cũng khá đơn giản nhưng vẫn toát lên vẻ sang trọng và cao cấp của chiếc máy. Cụm camera sau trên Galaxy S22 Ultra 5G được thiết kế trần tạo cảm giác gọn gàng và cũng tạo nên một điểm nhấn độc đáo cho chiếc máy. <img src='https://cdn.tgdd.vn/Products/Images/42/235838/samsung-galaxy-s22-ultra-11-2.jpg' max-width='100%' style='margin: 0 auto;' >' ",
+      "originalPrice": 21314,
+      "id": 1,
+      "images": {
+        "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/235838/TimerThumb/samsung-galaxy-s22-ultra.jpeg",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/235838/samsung-galaxy-s22-ultra-1-1.jpg"
+      }
+    },
+    {
+      "name": "Samsung Galaxy A23 4GB",
+      "originalPrice": "5690000",
+      "description": "Samsung Galaxy A23 4GB sở hữu bộ thông số kỹ thuật khá ấn tượng trong phân khúc, máy có một hiệu năng ổn định, cụm 4 camera thông minh cùng một diện mạo trẻ trung phù hợp cho mọi đối tượng người dùng.",
+      "category": "Cate khac",
+      "images": {
+        "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/262650/TimerThumb/samsung-galaxy-a23-(2).jpg",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/262650/samsung-galaxy-a23-1-1.jpg"
+      },
+      "id": 2
+    }
+  ]
 }
